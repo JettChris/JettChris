@@ -1,4 +1,8 @@
-### Hi there 👋
+<div id="header" align="center" >
+    <img src="https://media.giphy.com/media/yALcFbrKshfoY/giphy.gif" alt="">
+    <h1 align="center">Hi 👋, I'm JettChris</h1>
+    <h3 align="center">I'm an passionate Web Developer</h3>
+</div>
 
 <!--
 **JettChris/JettChris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
